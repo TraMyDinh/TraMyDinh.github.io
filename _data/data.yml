@@ -16,8 +16,8 @@ sidebar:
     phone: 0942 102 504
     timezone: Thanh Khe District, Da Nang City
     citizenship:
-    website: phanben110.github.io #do not add http://
-    linkedin: phanben110
+    website: tramydinh.github.io #do not add http://
+    #linkedin: phanben110
     #xing: alandoe
     github: TraMyDinh
     facebook: tramydinh262
@@ -40,7 +40,7 @@ sidebar:
 
     interests:
       - item: Participating in social activities
-        link: https://youtube.com/playlist?list=PL1q4E0Rwy8o237s27DwpW4dpSm2eb1Xup
+        link: 
 
       - item: Learning languages, technology
         link:
