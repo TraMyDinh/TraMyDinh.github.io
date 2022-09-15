@@ -58,9 +58,9 @@ career-profile:
       Knowledge of Bug Life cycle, Jira, Postman, HTML, CSS, Mysql and programming Tool: Sublime Text. 
       Spoken/Written languages: Vietnamese, English. Aim to be a solid tester.
 education:
-    - degree: Auditing and Accounting (GPA 3.33/4.0)
+    - degree: Auditing and Accounting 
       university: DuyTan University
-      time: 2017 - 2021 
+      time: 2017 - 2021 (GPA 3.33/4.0) 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -104,12 +104,12 @@ projects:
     title: Activities 
     assignments:
       - title: Participating in volunteer 2018-2019 activities in the university
-        link: "volunteer.png"
+        link: "https://github.com/TraMyDinh/TraMyDinh.github.io/blob/main/assets/images/volunteer.png"
         tagline: "Warm cout project for children, donating and organizing of giving gifts for poor children. Giving added strength in the entrance exam."
 
       - title: Admin YCC English Club
         link: "https://www.facebook.com/YCCDN/"
-        tagline: "Practice English, learn how to organize events, work in groups, ..."
+        tagline: "Practice English, learn how to organize events, work in groups."
 
 
 skills:
